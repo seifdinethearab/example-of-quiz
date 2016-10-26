@@ -1,0 +1,2 @@
+©all rights reserved©
+this application was developed by Seifdine Nasr to show how to do a simple quiz of history (in italian). This is a windows form application developed in C# (VS 2015 enterprise)
